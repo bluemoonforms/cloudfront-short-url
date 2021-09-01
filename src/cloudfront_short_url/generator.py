@@ -1,5 +1,4 @@
 """Module for redirect url generation."""
-
 import random
 import string
 from dataclasses import dataclass
